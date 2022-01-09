@@ -1,11 +1,9 @@
 Thanks to the people below for helping make this project possible or 
 creating things related to Impossible Mission.
 Credits: 
-Pygame Contributers
-EPYX Software
-Dennis Caswell
-Commodore
-MOS Technology/CSG
+![Screenshot 2022-01-09 092336](https://user-images.githubusercontent.com/92233545/148693246-57697a8f-c3d3-40fa-a893-4cb9168190fc.png)
+
+
 
 If your reading this, then you're either viewing this on github, 
 or you downloaded my software. If you did the second thing, 
