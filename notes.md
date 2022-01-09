@@ -17,16 +17,5 @@ read the following:
 
 WARNING: The code in this software is complicated and bloated and 
 will make you cry. A safety pig has been provided for your own benefit.
-_._ _..._ .-',     _.._(`)) 
-'-. `     '  /-._.-'    ',/ 
-   )         \            '. 
-  / _    _    |             \ 
- |  a    a    /              | 
- \   .-.                     ;   
-  '-('' ).-'       ,'       ; 
-     '-;           |      .' 
-        \           \    / 
-        | 7  .__  _.-\   \ 
-        | |  |  ``/  /`  / 
-       /,_|  |   /,_/   / 
-          /,_/      '`-' 
+
+  ![Screenshot 2022-01-09 092105](https://user-images.githubusercontent.com/92233545/148693151-3a74a153-39be-4fde-b56a-c5dc286ff03b.png)
