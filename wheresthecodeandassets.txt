@@ -1,0 +1,1 @@
+I'm at a stall currently, and right now I dont want to upload code that only displays a blank window because I cant figure out how to compile Asesprite.
